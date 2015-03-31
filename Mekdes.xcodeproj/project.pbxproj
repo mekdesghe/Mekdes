@@ -14,6 +14,7 @@
 		108DC3F61ACA46D3002C2715 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 108DC3F51ACA46D3002C2715 /* Images.xcassets */; };
 		108DC3F91ACA46D3002C2715 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 108DC3F71ACA46D3002C2715 /* LaunchScreen.xib */; };
 		108DC4051ACA46D3002C2715 /* MekdesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 108DC4041ACA46D3002C2715 /* MekdesTests.m */; };
+		108DC4101ACA49A5002C2715 /* ccmek.m in Sources */ = {isa = PBXBuildFile; fileRef = 108DC40F1ACA49A5002C2715 /* ccmek.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		108DC3FE1ACA46D3002C2715 /* MekdesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MekdesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		108DC4031ACA46D3002C2715 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		108DC4041ACA46D3002C2715 /* MekdesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MekdesTests.m; sourceTree = "<group>"; };
+		108DC40E1ACA49A5002C2715 /* ccmek.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ccmek.h; sourceTree = "<group>"; };
+		108DC40F1ACA49A5002C2715 /* ccmek.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ccmek.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 		108DC3DC1ACA46D3002C2715 = {
 			isa = PBXGroup;
 			children = (
+				108DC40E1ACA49A5002C2715 /* ccmek.h */,
+				108DC40F1ACA49A5002C2715 /* ccmek.m */,
 				108DC3E71ACA46D3002C2715 /* Mekdes */,
 				108DC4011ACA46D3002C2715 /* MekdesTests */,
 				108DC3E61ACA46D3002C2715 /* Products */,
@@ -220,6 +225,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				108DC3F11ACA46D3002C2715 /* ViewController.m in Sources */,
+				108DC4101ACA49A5002C2715 /* ccmek.m in Sources */,
 				108DC3EE1ACA46D3002C2715 /* AppDelegate.m in Sources */,
 				108DC3EB1ACA46D3002C2715 /* main.m in Sources */,
 			);

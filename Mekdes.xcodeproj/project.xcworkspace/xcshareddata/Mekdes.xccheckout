@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7444A873-4BE9-49B7-94C1-23B07DF0569A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Mekdes</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>421EF08811A274027E705F18A837D3A77EC9AD9C</key>
+		<string>https://github.com/mekdesghe/Mekdes.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Mekdes.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>421EF08811A274027E705F18A837D3A77EC9AD9C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mekdesghe/Mekdes.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>421EF08811A274027E705F18A837D3A77EC9AD9C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>421EF08811A274027E705F18A837D3A77EC9AD9C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Mekdes</string>
+		</dict>
+	</array>
+</dict>
+</plist>
